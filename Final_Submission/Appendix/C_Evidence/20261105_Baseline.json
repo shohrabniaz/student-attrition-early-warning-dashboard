@@ -1,19 +1,25 @@
 {
   "title": "Student Attrition Early-Warning Dashboard",
-  "seq": 59,
+  "slug": "student-attrition-early-warning-dashboard",
   "kind": "governance",
   "mode": "SyntheticBaseline",
-  "generatedUtc": "2026-11-04T17:32:15.620435+00:00",
+  "generatedUtc": "2026-11-04T17:56:53.894048+00:00",
   "author": "Md Shohrab Hossen Niaz",
-  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "publicReadiness": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  },
   "artefacts": [
     "gap analysis",
     "roadmap",
-    "reporting pack outline"
+    "reporting pack"
   ],
   "scoreModel": {
-    "baselineMaturity": 42,
-    "targetMaturity": 70,
-    "unit": "0-100 design-coverage index"
+    "baseline": 42,
+    "target": 75,
+    "unit": "design-coverage index"
   }
 }

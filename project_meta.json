@@ -1,10 +1,17 @@
 {
-  "seq": 59,
   "title": "Student Attrition Early-Warning Dashboard",
+  "old_slug": "student-attrition-early-warning-dashboard",
   "slug": "student-attrition-early-warning-dashboard",
   "folder": "Student_Attrition_Early_Warning_Dashboard",
   "kind": "governance",
-  "body_words": 231,
+  "body_words": 292,
+  "source": "MICT Academic",
   "project_id": "Academic Project 8",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
