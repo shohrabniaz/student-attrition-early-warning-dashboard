@@ -58,7 +58,7 @@ python -m src.cli run
 python tests\test_smoke.py
 ```
 
-Domain engine kind: `governance`.
+Domain engine kind: `analytics`.
 
 **Author:** Md Shohrab Hossen Niaz  
 **GitHub:** `student-attrition-early-warning-dashboard`

@@ -3,7 +3,7 @@
   "old_slug": "student-attrition-early-warning-dashboard",
   "slug": "student-attrition-early-warning-dashboard",
   "folder": "Student_Attrition_Early_Warning_Dashboard",
-  "kind": "governance",
+  "kind": "analytics",
   "body_words": 292,
   "source": "MICT Academic",
   "project_id": "Academic Project 8",
@@ -16,5 +16,6 @@
   },
   "has_automation": true,
   "entry": "python -m src.cli run",
-  "generatedUtc": "2026-11-09T13:07:13.746617+00:00"
+  "generatedUtc": "2026-11-09T13:17:40.090911+00:00",
+  "project_specific": true
 }
