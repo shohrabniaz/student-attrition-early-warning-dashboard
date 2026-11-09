@@ -38,3 +38,27 @@ Final_Submission/    Report, slides, appendices
 Synthetic or laboratory baselines are labelled. No production tenant secrets. Where a topic could imply offensive techniques, this pack stays defensive and high-level.
 
 **GitHub:** `student-attrition-early-warning-dashboard`
+
+
+## Run the automation
+
+Working code is in `src/`. Sample inputs are in `data/`. Results write to `output/`.
+
+```powershell
+.\automation\run.ps1
+```
+
+Manual:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+python -m src.cli run
+python tests\test_smoke.py
+```
+
+Domain engine kind: `governance`.
+
+**Author:** Md Shohrab Hossen Niaz  
+**GitHub:** `student-attrition-early-warning-dashboard`

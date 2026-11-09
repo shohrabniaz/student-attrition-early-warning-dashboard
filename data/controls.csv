@@ -1,0 +1,6 @@
+control_id,title,score,max_score,pass_threshold,evidence
+C01,Baseline policy documented,80,100,70,policy.docx
+C02,Owner assigned,55,100,70,raci.csv
+C03,Evidence retained 90 days,90,100,70,share_acl
+C04,Exception register current,40,100,70,exceptions.xlsx
+C05,Periodic review completed,70,100,70,minutes.pdf

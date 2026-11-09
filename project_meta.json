@@ -13,5 +13,8 @@
     "reasons": [
       "Strong portfolio narrative; synthetic baseline is fine for public"
     ]
-  }
+  },
+  "has_automation": true,
+  "entry": "python -m src.cli run",
+  "generatedUtc": "2026-11-09T13:07:13.746617+00:00"
 }

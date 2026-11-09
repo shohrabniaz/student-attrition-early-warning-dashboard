@@ -8,3 +8,5 @@ Thumbs.db
 _tmp/
 Speaker_Only/
 .sixth/
+.venv/
+output/
